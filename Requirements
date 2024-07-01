@@ -1,0 +1,8 @@
+Hardware:
+Arduino Nano 33 BLE Sense
+Raspberry Pi (optional)
+Sensors (accelerometer, microphone, camera)
+Software:
+JupyterLab
+Arduino IDE
+Python libraries: TensorFlow Lite, Edge Impulse SDK
